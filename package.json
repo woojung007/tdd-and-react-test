@@ -1,0 +1,16 @@
+{
+  "name": "tdd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "@types/jest": "^29.5.5"
+  }
+}
